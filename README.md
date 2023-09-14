@@ -4,7 +4,7 @@
 Bachelor of engineering in data science Institution: ITESM CEM
 Year of Graduation: 2025
 - President, ITESM CEM Debate
-- Team TECCEM Track and Field Team, Captain
+- Captain, ITESM CEM Track and Field Team
 - Organizer of Metropolitan Debate Tournament
 - Seventh best speaker of National Debate Championship
 
