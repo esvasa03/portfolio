@@ -1,1 +1,17 @@
-Proyectos:
+Proyects:
+
+1) Raising Talents
+
+With the KNN machine learning model, we seek to find the researchers with the greatest potential within Tec de Monterrey.
+
+2) RB diagnosis
+
+With the machine learning model of Bayesian networks, a diagnosis of different patients was made
+
+3) Image compression
+
+It is a work that uses PCA to decrease the dimensionality of an image.
+
+4) European Option Challenge:
+
+Through stochastic optimization models, we sought to model the behavior of the Amazon stock, as well as using the Black Scholes model to analyze the price of European options.
