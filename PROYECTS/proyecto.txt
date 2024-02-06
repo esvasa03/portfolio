@@ -15,3 +15,7 @@ It is a work that uses PCA to decrease the dimensionality of an image.
 4) European Option Challenge:
 
 Through stochastic optimization models, we sought to model the behavior of the Amazon stock, as well as using the Black Scholes model to analyze the price of European options.
+
+5) CNN in Fashion MNIST dataset
+
+Used keras to train two CNN models that could identify each piece of cloth
