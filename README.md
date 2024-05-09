@@ -9,8 +9,7 @@ Year of Graduation: 2025
 - Seventh best speaker of National Debate Championship
 
 ## Work Experience
-Business Intelligence Internship | DAI
-November 2023 - April 2024
+Business Intelligence Internship | DAI (November 2023 - April 2024)
 - Performed web scraping tasks to assess product competitiveness within the market.
 - Developed a Python program to align the state vehicle fleet with the company's products, enabling the assessment of each product's sales potential.
 
