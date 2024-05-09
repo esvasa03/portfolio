@@ -23,7 +23,7 @@ Research raising talents
 Analysis of European Option
 - Utilized Python to model the stochastic behavior of a stock in the market.
 
-  ## Other skills
+## Skills
 - Programming Languages: Python, SQL, C++
 - Data Analysis Tools: Numpy, Pandas
 - Machine Learning: Scikit-Learn, TensorFlow, CNN
