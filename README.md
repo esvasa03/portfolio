@@ -33,7 +33,7 @@ Analysis of European Option
 
 ## Volunteer
 Quick Mind
-- Utilized web scraping techniques to extract data from various websites, enriching a data lake with valuable information.
+- Utilized web scraping and natural language process techniques to extract data from various websites, enriching a data lake with valuable information.
 
 Math Teacher, Jann Foundation
 - Teacher of 4th grade childrens
